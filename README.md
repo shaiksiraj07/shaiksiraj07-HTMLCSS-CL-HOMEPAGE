@@ -13,7 +13,7 @@ Start by opening the two lab images; these two images describe how to view the H
 You're now ready to begin this series of labs. Begin by opening and viewing the "YourHomepage.html" file; the file itself contains this lab's instructions.
 
 Files to edit:
-- YourHomepage.html
+1.- YourHomepage.html
 
 
 
