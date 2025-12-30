@@ -14,6 +14,7 @@ You're now ready to begin this series of labs. Begin by opening and viewing the 
 
 Files to edit:
 1.- YourHomepage.html
+2.YourHomepage.html make changes
 
 
 
